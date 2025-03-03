@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		DB13E4E52D77A83500939A2C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DB13E4CC2D77A83500939A2C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DB13E4D32D77A83500939A2C;
+			remoteInfo = "Hue Rotation Example 2";
+		};
+		DB13E4EF2D77A83500939A2C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DB13E4CC2D77A83500939A2C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DB13E4D32D77A83500939A2C;
+			remoteInfo = "Hue Rotation Example 2";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		DB13E4D42D77A83500939A2C /* Hue Rotation Example 2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hue Rotation Example 2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DB13E4E42D77A83500939A2C /* Hue Rotation Example 2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hue Rotation Example 2Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DB13E4EE2D77A83500939A2C /* Hue Rotation Example 2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hue Rotation Example 2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		DB13E4D62D77A83500939A2C /* Hue Rotation Example 2 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Hue Rotation Example 2";
+			sourceTree = "<group>";
+		};
+		DB13E4E72D77A83500939A2C /* Hue Rotation Example 2Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Hue Rotation Example 2Tests";
+			sourceTree = "<group>";
+		};
+		DB13E4F12D77A83500939A2C /* Hue Rotation Example 2UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Hue Rotation Example 2UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DB13E4D12D77A83500939A2C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DB13E4E12D77A83500939A2C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DB13E4EB2D77A83500939A2C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DB13E4CB2D77A83500939A2C = {
+			isa = PBXGroup;
+			children = (
+				DB13E4D62D77A83500939A2C /* Hue Rotation Example 2 */,
+				DB13E4E72D77A83500939A2C /* Hue Rotation Example 2Tests */,
+				DB13E4F12D77A83500939A2C /* Hue Rotation Example 2UITests */,
+				DB13E4D52D77A83500939A2C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DB13E4D52D77A83500939A2C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DB13E4D42D77A83500939A2C /* Hue Rotation Example 2.app */,
+				DB13E4E42D77A83500939A2C /* Hue Rotation Example 2Tests.xctest */,
+				DB13E4EE2D77A83500939A2C /* Hue Rotation Example 2UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DB13E4D32D77A83500939A2C /* Hue Rotation Example 2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DB13E4F82D77A83500939A2C /* Build configuration list for PBXNativeTarget "Hue Rotation Example 2" */;
+			buildPhases = (
+				DB13E4D02D77A83500939A2C /* Sources */,
+				DB13E4D12D77A83500939A2C /* Frameworks */,
+				DB13E4D22D77A83500939A2C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				DB13E4D62D77A83500939A2C /* Hue Rotation Example 2 */,
+			);
+			name = "Hue Rotation Example 2";
+			packageProductDependencies = (
+			);
+			productName = "Hue Rotation Example 2";
+			productReference = DB13E4D42D77A83500939A2C /* Hue Rotation Example 2.app */;
+			productType = "com.apple.product-type.application";
+		};
+		DB13E4E32D77A83500939A2C /* Hue Rotation Example 2Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DB13E4FB2D77A83500939A2C /* Build configuration list for PBXNativeTarget "Hue Rotation Example 2Tests" */;
+			buildPhases = (
+				DB13E4E02D77A83500939A2C /* Sources */,
+				DB13E4E12D77A83500939A2C /* Frameworks */,
+				DB13E4E22D77A83500939A2C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DB13E4E62D77A83500939A2C /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				DB13E4E72D77A83500939A2C /* Hue Rotation Example 2Tests */,
+			);
+			name = "Hue Rotation Example 2Tests";
+			packageProductDependencies = (
+			);
+			productName = "Hue Rotation Example 2Tests";
+			productReference = DB13E4E42D77A83500939A2C /* Hue Rotation Example 2Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		DB13E4ED2D77A83500939A2C /* Hue Rotation Example 2UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DB13E4FE2D77A83500939A2C /* Build configuration list for PBXNativeTarget "Hue Rotation Example 2UITests" */;
+			buildPhases = (
+				DB13E4EA2D77A83500939A2C /* Sources */,
+				DB13E4EB2D77A83500939A2C /* Frameworks */,
+				DB13E4EC2D77A83500939A2C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DB13E4F02D77A83500939A2C /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				DB13E4F12D77A83500939A2C /* Hue Rotation Example 2UITests */,
+			);
+			name = "Hue Rotation Example 2UITests";
+			packageProductDependencies = (
+			);
+			productName = "Hue Rotation Example 2UITests";
+			productReference = DB13E4EE2D77A83500939A2C /* Hue Rotation Example 2UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DB13E4CC2D77A83500939A2C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					DB13E4D32D77A83500939A2C = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					DB13E4E32D77A83500939A2C = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = DB13E4D32D77A83500939A2C;
+					};
+					DB13E4ED2D77A83500939A2C = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = DB13E4D32D77A83500939A2C;
+					};
+				};
+			};
+			buildConfigurationList = DB13E4CF2D77A83500939A2C /* Build configuration list for PBXProject "Hue Rotation Example 2" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DB13E4CB2D77A83500939A2C;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = DB13E4D52D77A83500939A2C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DB13E4D32D77A83500939A2C /* Hue Rotation Example 2 */,
+				DB13E4E32D77A83500939A2C /* Hue Rotation Example 2Tests */,
+				DB13E4ED2D77A83500939A2C /* Hue Rotation Example 2UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DB13E4D22D77A83500939A2C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DB13E4E22D77A83500939A2C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DB13E4EC2D77A83500939A2C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DB13E4D02D77A83500939A2C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DB13E4E02D77A83500939A2C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DB13E4EA2D77A83500939A2C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DB13E4E62D77A83500939A2C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DB13E4D32D77A83500939A2C /* Hue Rotation Example 2 */;
+			targetProxy = DB13E4E52D77A83500939A2C /* PBXContainerItemProxy */;
+		};
+		DB13E4F02D77A83500939A2C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DB13E4D32D77A83500939A2C /* Hue Rotation Example 2 */;
+			targetProxy = DB13E4EF2D77A83500939A2C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		DB13E4F62D77A83500939A2C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		DB13E4F72D77A83500939A2C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DB13E4F92D77A83500939A2C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Hue Rotation Example 2/Preview Content\"";
+				DEVELOPMENT_TEAM = Z488URD4T8;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hghdev.Hue-Rotation-Example-2";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		DB13E4FA2D77A83500939A2C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Hue Rotation Example 2/Preview Content\"";
+				DEVELOPMENT_TEAM = Z488URD4T8;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hghdev.Hue-Rotation-Example-2";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		DB13E4FC2D77A83500939A2C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Z488URD4T8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hghdev.Hue-Rotation-Example-2Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hue Rotation Example 2.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Hue Rotation Example 2";
+			};
+			name = Debug;
+		};
+		DB13E4FD2D77A83500939A2C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Z488URD4T8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hghdev.Hue-Rotation-Example-2Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hue Rotation Example 2.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Hue Rotation Example 2";
+			};
+			name = Release;
+		};
+		DB13E4FF2D77A83500939A2C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Z488URD4T8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hghdev.Hue-Rotation-Example-2UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Hue Rotation Example 2";
+			};
+			name = Debug;
+		};
+		DB13E5002D77A83500939A2C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Z488URD4T8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hghdev.Hue-Rotation-Example-2UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Hue Rotation Example 2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DB13E4CF2D77A83500939A2C /* Build configuration list for PBXProject "Hue Rotation Example 2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DB13E4F62D77A83500939A2C /* Debug */,
+				DB13E4F72D77A83500939A2C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DB13E4F82D77A83500939A2C /* Build configuration list for PBXNativeTarget "Hue Rotation Example 2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DB13E4F92D77A83500939A2C /* Debug */,
+				DB13E4FA2D77A83500939A2C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DB13E4FB2D77A83500939A2C /* Build configuration list for PBXNativeTarget "Hue Rotation Example 2Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DB13E4FC2D77A83500939A2C /* Debug */,
+				DB13E4FD2D77A83500939A2C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DB13E4FE2D77A83500939A2C /* Build configuration list for PBXNativeTarget "Hue Rotation Example 2UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DB13E4FF2D77A83500939A2C /* Debug */,
+				DB13E5002D77A83500939A2C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DB13E4CC2D77A83500939A2C /* Project object */;
+}
