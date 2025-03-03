@@ -1,0 +1,35 @@
+= SwiftUI Animations iOS 16 - Animate Anything with SwiftUI
+by Packt Publishing
+
+https://github.com/hghpublic/PacktPublishing-SwiftUI-Animations-iOS-16---Animate-Anything-with-SwiftUI-
+
+== O'Reilly
+
+https://learning.oreilly.com/course/swiftui-animations-ios/9781801077088/
+
+[%autowidth, frame=all]
+[cols="1,1"]
+|===
+|Project|Status
+
+|Project 1|✓
+|Project 2|✓
+|Project 3|✓
+|Project 4 - Breathing Flower|✓
+|Project 5|✓
+|Project 6|✓
+|Project 7|
+|Project 8|✓
+|Project 9|✓
+|Project 10|✓
+|Project 11|✓
+|Project 12|✓
+|Project 13|✓
+|Project 14 - Gear up for this - Gears and Belts|✓
+|Project 15 - Make Some Waves|✓
+|Project 16 - A Stroke of Insight - Animating Strokes|✓
+|Project 17 - Be Fruitful and Multiply - Expand a View|✓
+|Project 18|✓
+|Project 19|✓
+|Project 20|✓
+|===
