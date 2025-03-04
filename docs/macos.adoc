@@ -1,0 +1,5 @@
+= MacOS
+
+----
+softwareupdate --list
+----

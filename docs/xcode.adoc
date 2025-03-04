@@ -1,0 +1,50 @@
+= XCode
+
+https://developer.apple.com/documentation/xcode/running-code-on-a-specific-version/
+
+
+== cmake
+
+https://github.com/apple/swift-cmake-examples
+
+https://github.com/compnerd/swift-cmake-examples
+
+https://iosexample.com/a-windows-calculator-ported-to-macos-with-swiftui-interface/
+
+https://github.com/qqaatw/win-calculator-on-apple?ref=iosexample.com
+
+https://troz.net/post/2024/swiftui-mac-2024/
+
+https://discourse.cmake.org/t/using-asset-catalogs-for-macos-ios-projects/1588
+
+
+How to include a CMake project in a Xcode project
+
+
+https://blog.tomtasche.at/2019/05/how-to-include-cmake-project-in-xcode.html
+
+
+== Simulator
+
+https://help.apple.com/simulator/mac/current/#/
+
+https://medium.com/xcblog/simctl-control-ios-simulators-from-command-line-78b9006a20dc
+
+https://stackoverflow.com/questions/31179706/how-can-i-launch-the-ios-simulator-from-terminal
+
+
+https://www.jviotti.com/2022/12/21/building-objective-c-ios-apps-with-cmake.html
+
+
+----
+sudo xcode-select --switch /Applications/Xcode-beta.app
+sudo xcode-select -s /Applications/Xcode.app
+
+sudo xcode-select --install
+xcode-select -p
+
+
+sudo xcodebuild -license
+
+xcrun simctl list
+----
