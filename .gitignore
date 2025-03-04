@@ -5,4 +5,9 @@
 xcuserdata/
 *.xcconfig
 
+# cmake
+build/
+
+# other
 archives/
+old/
